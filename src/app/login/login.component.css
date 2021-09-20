@@ -1,0 +1,53 @@
+
+#appContainer{
+    height: 100%;
+    width: 100%;    
+    margin: 0 auto;
+    
+}
+
+#cardStyle{
+    background-color: rgb(255,255,255,0.4);
+    box-shadow: 5px 3px 10px 5px gray;
+}
+
+input{
+    border:none;
+    background-color: rgba(255,255,255,0);
+    border-bottom:solid black;
+    size:3px;
+    margin-left: 10px;
+    width: 85%;
+    padding: 1vh;
+}
+
+label{
+    color: grey;
+}
+.form-group{
+    margin-top:30px;
+    padding: 2vh;
+}
+form{
+    padding:12px;
+}
+
+#submitButton{
+    margin: 25px;
+    width: 40%;
+}
+
+.text-center{
+    text-align: center;
+}
+.btnUpder{
+    padding: 1cm;
+    font-weight: bold;
+    font-size: larger;
+    color: #07439A;
+}
+.btn{
+    padding: 1cm;
+    font-weight: bold;
+    font-size: larger;
+}
